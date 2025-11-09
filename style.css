@@ -253,10 +253,8 @@ div.filter div.filter-grid div.filter-grid-flavor div.flavor div.checkbox input{
 
 .review-list{
   display: grid;
-  grid-template-columns: auto auto;
   column-gap: 2rem;
   row-gap: 8px;
-  margin: 4rem 4rem 4rem 4rem;
 }
 .review-container{
   /*display: none;*/
@@ -379,6 +377,13 @@ div.filter div.filter-grid div.filter-grid-flavor div.flavor div.checkbox input{
   }
   .footer-text{
     padding: 2rem;
+  }
+
+
+
+  .review-list{
+    grid-template-columns: auto auto;
+    margin: 4rem 4rem 4rem 4rem;
   }
 }
 
