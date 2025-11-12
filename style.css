@@ -225,7 +225,6 @@ button:active{
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 1rem;
-  margin: 0 4rem 2rem 4rem;
   padding: 0 1rem 1rem 1rem;
 }
 .filter-grid-head{
@@ -380,6 +379,10 @@ div.filter div.filter-grid div.filter-grid-flavor div.flavor div.checkbox input{
   }
 
 
+  .filter-grid{
+    margin: 0 4rem 2rem 4rem;
+  }
+  
 
   .review-list{
     grid-template-columns: auto auto;
