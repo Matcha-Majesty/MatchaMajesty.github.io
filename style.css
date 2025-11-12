@@ -417,6 +417,7 @@ div.filter div.filter-grid div.filter-grid-flavor div.flavor div.checkbox input{
   padding: 2rem 1rem 2rem 1rem;
   }
   .review-list{
+    display: block;
     grid-template-columns: auto;
     margin: 4rem 1rem 0 1rem;
   }
