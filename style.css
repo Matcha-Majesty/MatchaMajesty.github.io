@@ -280,9 +280,8 @@ div.filter div.filter-grid div.filter-grid-flavor div.flavor div.checkbox input{
   overflow: hidden;
 }
 .review-container > .review-img > img{
-  width: 100%;
-  min-height: 100%;
   object-fit: cover;
+  width: 100%;
 }
 .review-container > .review-text{
   color: var(--lighttone1);
